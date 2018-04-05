@@ -1,0 +1,14 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\HowManyTimes\obj\x86\Debug\HowManyTimes.HowManyTimesUI.resources
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\HowManyTimes\obj\x86\Debug\HowManyTimes.Properties.Resources.resources
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\HowManyTimes\obj\x86\Debug\HowManyTimes.csproj.GenerateResource.Cache
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\HowManyTimes\bin\Debug\HowManyTimes.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\HowManyTimes\bin\Debug\HowManyTimes.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\HowManyTimes\obj\x86\Debug\HowManyTimes.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\HowManyTimes\obj\x86\Debug\HowManyTimes.pdb
+G:\C# Projects\HowManyTimes\HowManyTimes\obj\x86\Debug\HowManyTimes.exe
+G:\C# Projects\HowManyTimes\HowManyTimes\obj\x86\Debug\HowManyTimes.pdb
+G:\C# Projects\HowManyTimes\HowManyTimes\obj\x86\Debug\HowManyTimes.HowManyTimesUI.resources
+G:\C# Projects\HowManyTimes\HowManyTimes\obj\x86\Debug\HowManyTimes.Properties.Resources.resources
+G:\C# Projects\HowManyTimes\HowManyTimes\obj\x86\Debug\HowManyTimes.csproj.GenerateResource.Cache
+G:\C# Projects\HowManyTimes\HowManyTimes\bin\Debug\HowManyTimes.exe
+G:\C# Projects\HowManyTimes\HowManyTimes\bin\Debug\HowManyTimes.pdb

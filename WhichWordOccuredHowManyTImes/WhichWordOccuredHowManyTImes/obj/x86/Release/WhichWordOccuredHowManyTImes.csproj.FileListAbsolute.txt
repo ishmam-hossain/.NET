@@ -1,0 +1,7 @@
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WhichWordOccuredHowManyTImes\bin\Release\WhichWordOccuredHowManyTImes.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WhichWordOccuredHowManyTImes\bin\Release\WhichWordOccuredHowManyTImes.pdb
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WhichWordOccuredHowManyTImes\obj\x86\Release\WhichWordOccuredHowManyTImes.howManyTimesForm.resources
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WhichWordOccuredHowManyTImes\obj\x86\Release\WhichWordOccuredHowManyTImes.Properties.Resources.resources
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WhichWordOccuredHowManyTImes\obj\x86\Release\WhichWordOccuredHowManyTImes.csproj.GenerateResource.Cache
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WhichWordOccuredHowManyTImes\obj\x86\Release\WhichWordOccuredHowManyTImes.exe
+C:\Users\Ishmam Tonmoy\AppData\Local\Temporary Projects\WhichWordOccuredHowManyTImes\obj\x86\Release\WhichWordOccuredHowManyTImes.pdb
